@@ -1,0 +1,44 @@
+{
+  "pages": [
+    {
+      "id": "View Visit Memos",
+      "isDefault": true
+    },
+    {
+      "id": "View Representative Ratings",
+      "isDefault": false
+    },
+    {
+      "id": "View Insurance",
+      "isDefault": false
+    },
+    {
+      "id": "Add New Employee",
+      "isDefault": false
+    },
+    {
+      "id": "Delete Visit Memo",
+      "isDefault": false
+    },
+    {
+      "id": "Update Visit Memos",
+      "isDefault": false
+    },
+    {
+      "id": "View Previous Trips",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#EAEDFB",
+  "icon": "flight",
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}

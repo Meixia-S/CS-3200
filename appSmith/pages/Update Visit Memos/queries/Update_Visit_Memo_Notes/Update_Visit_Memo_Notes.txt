@@ -1,0 +1,5 @@
+{{
+	{
+		"notes" : VM_Table_1.updatedRow.notes
+	}
+}}
